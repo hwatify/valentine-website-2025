@@ -51,7 +51,7 @@ const CONFIG = {
     celebration: {
         title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
         message: "Now come get your gift, a big warm hug and a huge kiss!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        emojis: "🐻‍❄️🐻"  // These will bounce around
     },
 
     // Color scheme for the website
@@ -59,8 +59,8 @@ const CONFIG = {
     colors: {
         backgroundStart: "#ef798a",      // Gradient start (try pastel colors for a soft look)
         backgroundEnd: "#f7a9a8",        // Gradient end (should complement backgroundStart)
-        buttonBackground: "#613f75",     // Button color (should stand out against the background)
-        buttonHover: "#988b8e",          // Button hover color (slightly lighter than buttonBackground)
+        buttonBackground: "#615055",     // Button color (should stand out against the background)
+        buttonHover: "#ddf8e8",          // Button hover color (slightly lighter than buttonBackground)
         textColor: "#988b8e"             // Text color (make sure it's readable!)
     },
 
